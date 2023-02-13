@@ -2,6 +2,6 @@ Name : Samsung
 MOdel: M30
 version 12.0
 
-
+version 200.0
 
 version 13.0
