@@ -1,0 +1,2 @@
+Name : Samsung
+MOdel: M30
